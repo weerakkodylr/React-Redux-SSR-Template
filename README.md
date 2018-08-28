@@ -5,7 +5,7 @@ It's a simple boilerplate ReactJS project with Redux as state management pattern
 
 # Steps
 1. npm install
-2. set NODE_ENV=development
+2. set NODE_ENV=development (in Mac, export NODE_ENV=development)
 3. npm run webpack-minify
 4. npm run dev
 5. http://localhost:8080/sample
